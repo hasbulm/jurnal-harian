@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="id">
 <head>
     <meta charset="UTF-8">
@@ -57,15 +57,16 @@
 
     <div id="content" class="content">
         <h2>📝 Jurnal Harian Saya</h2>
-        <p><strong>18 April 2025:</strong> Hari ini aku merasa lebih tenang setelah jogging pagi. Langit cerah dan aku sempat merenung di taman selama 30 menit. 🌤️</p>
-        <p><strong>17 April 2025:</strong> Hujan deras membuatku malas keluar rumah, jadi aku habiskan waktu dengan baca buku dan ngopi hangat. ☕📚</p>
+        <p><strong>18 April 2025:</strong> aku ingin belajar terus 🌤</p>
+        <p><strong>17 April 2025:</strong> males </p>
+        <p><strong>17 April 2025:</strong> tolol ah </p>
     </div>
 </div>
 
 <script>
     function checkPassword() {
         var password = document.getElementById('password').value;
-        var correctPassword = 'rahasia123';  // Ganti dengan password kamu
+        var correctPassword = 'yaudah';  // Ganti dengan password kamu
         var errorElement = document.getElementById('error');
         
         if (password === correctPassword) {
